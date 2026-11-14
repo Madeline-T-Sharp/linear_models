@@ -2,7 +2,7 @@
 title: "Linear Models"
 author: "Madeline Sharp"
 date: "2026-11-14"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
